@@ -1,3 +1,4 @@
+
 const addBtn = document.getElementById('add-btn');
 const newTodoInput = document.getElementById('new-todo');
 const todoList = document.getElementById('todo-list');
@@ -107,3 +108,4 @@ newTodoInput.addEventListener('keydown', (e) => {
 
 // Initial render
 renderTasks();
+
