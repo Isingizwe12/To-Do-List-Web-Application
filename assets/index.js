@@ -36,7 +36,7 @@ function renderTasks() {
     }
 
     // Double-click to edit
-    text.addEventListener('dblclick', () => {
+    text.addEventListener('click', () => {
       const inputEdit = document.createElement('input');
       inputEdit.type = 'text';
       inputEdit.value = text.textContent;
