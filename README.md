@@ -9,7 +9,7 @@ Completed tasks are moved to a separate section, and all tasks are saved in **lo
 ##  Features
 - ➕ Add new tasks  
 - ✅ Mark tasks as complete (moved to "Completed" section)  
-- ✏️ Edit tasks by double-clicking  
+- ✏️ Edit tasks by clicking  on the item you want to edit
 - ❌ Delete tasks  
 - 💾 Data persistence using **localStorage**  
 - 📱 Responsive design with **Tailwind CSS**
